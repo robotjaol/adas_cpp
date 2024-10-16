@@ -1,6 +1,7 @@
 # Halo Internet
-mini sub-Advanced Driver Assistance System
-implementasi mata kuliah Sistem Kendaraan Cerdas
+Sub-Advanced Driver Assistance System
+
+`implementasi mata kuliah Sistem Kendaraan Cerdas`
 
 *Disclaimer Saya Teknik Elektro Otomasi*
 
