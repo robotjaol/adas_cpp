@@ -17,7 +17,7 @@ def update_plot(frame):
     line.set_data(range(len(latency_data)), latency_data)
     return line,
 
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(0) // adjust
 
 ani = FuncAnimation(fig, update_plot, init_func=init_plot, blit=True)
 
